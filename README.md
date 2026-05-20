@@ -33,10 +33,8 @@ https://drive.google.com/-link
 ## Installation Instructions  
 
 ### Step 1: Clone the Repository  
-To clone the repository to your local machine, use the following command:   
-git clone https://github.com/yourusername/OptiHeart_Retinal_Insight_to_Cardiac_Health.git   
-Then, navigate into the project directory by running:  
-cd OptiHeart_Retinal_Insight_to_Cardiac_Health  
+Clone the repository to your local machine  
+Then, navigate into the project directory by running  
 
 ### Step 2: Set Up Virtual Environment  
 It's recommended to use a virtual environment to avoid dependency issues. To create a virtual environment, run:  
